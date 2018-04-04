@@ -1,6 +1,6 @@
 # Autoscaling of Embedded JDG application in OpenShift
 
-This quickstart demonstrates how an application running with JDG in embedded mode on OpenShift can horizontally scale up as the memory requirements go up. Th
+This quickstart demonstrates how an application running with JDG in embedded mode on OpenShift can horizontally scale up as the memory requirements go up.
 
 ## Prerequisites
 
